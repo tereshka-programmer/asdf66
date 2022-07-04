@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">asdf66</string>
+    <string name="feels_like">Ощущается как :</string>
+    <string name="city">Минск</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind_speed">Скорость ветра :</string>
+</resources>
